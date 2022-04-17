@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Svyatoslav\source\repos\Zadanie 9\Zadanie 9\main.cpp(16,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Svyatoslav\source\repos\Zadanie 9\Zadanie 9\main.cpp(20,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Svyatoslav\source\repos\Zadanie 9\Zadanie 9\main.cpp(28,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Svyatoslav\source\repos\Zadanie 9\Zadanie 9\main.cpp(32,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Svyatoslav\source\repos\Zadanie 9\Zadanie 9\main.cpp(36,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Zadanie 9.vcxproj -> C:\Users\Svyatoslav\source\repos\Zadanie 9\Debug\Zadanie 9.exe
